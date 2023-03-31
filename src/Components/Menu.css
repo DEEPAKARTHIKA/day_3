@@ -1,0 +1,11 @@
+#menu
+{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+#menu h1{
+    font-size: 3em;
+    text-align: center;
+}
